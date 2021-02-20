@@ -19,16 +19,16 @@ My research interests mainly lie in **Generative Adversarial Networks** and **Ad
 
 
 # Awards
-* National grants. USTC.2015.12
-* National grants. USTC.2016.12
-* National grants. USTC.2017.12
-* Bronze Award of the Excellent Student Scholarship. USTC. 2018.12
-* National Encouragement Scholarship. USTC. 2019.4
 
+* National Encouragement Scholarship. USTC. 2019.4
+* Bronze Award of the Excellent Student Scholarship. USTC. 2018.12
+* National grants. USTC.2017.12
+* National grants. USTC.2016.12
+* National grants. USTC.2015.12
 # Education
-* Department of Electronic Science and Technology, University of Science and Technology of China. China. 2015-2019
-Undergraduate in Artificial Intelligence Class
-* Department of Electronic Engineering and Information Science, University of Science and Technology of China. China. 2019-present
+* Department of Electronic Engineering and Information Science, University of Science and Technology of China. China. 2019-present. <br>
 Master student with Prof. Bin Li.
+* Department of Electronic Science and Technology, University of Science and Technology of China. China. 2015-2019. <br>
+Undergraduate in Artificial Intelligence Class
 <!---Activity and Service--->
 <!---Experience--->
