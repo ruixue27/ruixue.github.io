@@ -7,32 +7,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Yong Liu](https://iie-liuyong.github.io/) and Researcher Weiping Wang. <br>
-I received my Bachelor's degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College. 
+I am currently a Master student in the [Department of Electronic Engineering and Information Science](https://eeis.ustc.edu.cn/) at [University of Science and Technology of China](https://ustc.edu.cn/), under the supervision of professor [Bin Li](http://staff.ustc.edu.cn/~binli/). I received my Bachelor's degree from [University of Science and Technology of China](https://ustc.edu.cn/) in 2019.
 
 # Research
-My research interests mainly lie in **efficient large scale machine learning with theoretical guarantee**, but also include kernel methods, semi-supervised learning (SSL) and interpretability of neural networks. <br>
-Indeed, my works focus on **generalization** analysis of those areas and building effective and scalable **optimization** tools for them, to channel theory and algorithms into applications.
+My research interests mainly lie in **Generative Adversarial Networks** and **Adversarial Examples**. My works focus on some regularization methods in GANs training.
 
 # Publications
-* **Jian Li**, Yong Liu, Weiping Wang. "Automated Spectral Kernel Learning". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
-* **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm". Published in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
-* **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis". Published in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
-* **Jian Li**, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. "Multi-Class Learning: From Theory to Algorithm". Published in Advances in Neural Information Processing Systems 31 ([NeurIPS 2018](https://nips.cc/Conferences/2018)).
-* **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)).
+* **Ziqiang Li**, Rentuo Tao, Hongjing Niu, Mingdao Yue, Bin Li. Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation. **ICPR2020**, Milan, Italy, Jan. 10-15, 2021.
+* **Ziqiang Li**, Rentuo Tao, Qianrun Wu, Bin Li. DA-RefineNet: Dual-inputs Attention RefineNet for Whole Slide Image Segmentation. **ICPR2020**, Milan, Italy, Jan. 10-15, 2021.
 
-# Honors and Awards
-* ZhuLiYueHua Scholarship for Excellent Doctoral Student (Top 1\%, RMB &yen; 5,000). <br> Chinese Academy of Sciences (CAS). 2019.
-* [The UCAS Joint PhD Training Program (2&permil;, USD \$22,800)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf). <br>University of Chinese Academy of Sciences (UCAS). 2019.
-* [CAS Presidential Scholarship (Top 1%, RMB &yen; 5,000)](https://lijian.ac.cn/files/awards/2019_cas_presidential_scholarship.pdf). <br> Chinese Academy of Sciences (CAS). 2019.
-* National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000). <br> Ministry of Education of P.R. China. 2019.
-* [National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000)](https://lijian.ac.cn/files/awards/2018_national_scholarship.pdf). <br> Ministry of Education of P.R. China. 2018.
-* [IIE Presidential Scholarship (Top 10%, RMB &yen; 2,000)](https://lijian.ac.cn/files/awards/2018_iie_presidential_scholarship.pdf).
-  <br> Institute of Information Engineering, CAS. 2018.
-* [Merit Student](https://lijian.ac.cn/files/awards/2018_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2018.
-* [Merit Student](https://lijian.ac.cn/files/awards/2019_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2019.
-* [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2017_laboratory_excellent_student.pdf). <br> Institute of Information Engineering, CAS. 2017.
-* [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2018_laboratory_excellent_student.pdf). <br> Institute of Information Engineering, CAS. 2018.
 
+
+# Awards
+* National grants. USTC.2015.12
+* National grants. USTC.2016.12
+* National grants. USTC.2017.12
+* Bronze Award of the Excellent Student Scholarship. USTC. 2018.12
+* National Encouragement Scholarship. USTC. 2019.4
+
+# Education
+* Department of Electronic Science and Technology, University of Science and Technology of China. China. 2015-2019
+Undergraduate in Artificial Intelligence Class
+* Department of Electronic Engineering and Information Science, University of Science and Technology of China. China. 2019-present
+Master student with Prof. Bin Li.
 <!---Activity and Service--->
 <!---Experience--->
