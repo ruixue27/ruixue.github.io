@@ -17,7 +17,7 @@ author_profile: true
 * <b>DA-RefineNet: Dual-inputs Attention RefineNet for Whole Slide Image Segmentation</b>.
 <b>Ziqiang Li</b>, Rentuo Tao, Qianrun Wu, Bin Li. <i>25th International Conference on Pattern Recognition (ICPR), 2020</i>. <br>
 
-##2019
+## 2019
 * <b>ResAttr-GAN: Unpaired deep residual attributes learning for multi-domain face image translationg</b>.
 Rentuo Tao, <b>Ziqiang Li</b>, Renshuai Tao, Bin Li. <i>IEEE Access, 2019</i>. <br>
 
