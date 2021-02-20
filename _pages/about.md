@@ -16,8 +16,6 @@ My research interests mainly lie in **Generative Adversarial Networks** and **Ad
 * **Ziqiang Li**, Rentuo Tao, Hongjing Niu, Mingdao Yue, Bin Li. Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation. **ICPR2020**, Milan, Italy, Jan. 10-15, 2021.
 * **Ziqiang Li**, Rentuo Tao, Qianrun Wu, Bin Li. DA-RefineNet: Dual-inputs Attention RefineNet for Whole Slide Image Segmentation. **ICPR2020**, Milan, Italy, Jan. 10-15, 2021.
 
-
-
 # Awards
 
 * National Encouragement Scholarship. USTC. 2019.4
@@ -25,7 +23,9 @@ My research interests mainly lie in **Generative Adversarial Networks** and **Ad
 * National grants. USTC.2017.12
 * National grants. USTC.2016.12
 * National grants. USTC.2015.12
+
 # Education
+
 * Department of Electronic Engineering and Information Science, University of Science and Technology of China. China. 2019-present. <br>
 Master student with Prof. Bin Li.
 * Department of Electronic Science and Technology, University of Science and Technology of China. China. 2015-2019. <br>
