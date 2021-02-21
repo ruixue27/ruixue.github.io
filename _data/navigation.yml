@@ -22,7 +22,7 @@ main:
     url: /cv&contact/  
 
   - title: "Blogs"
-   url: /year-archive/
+    url: /year-archive/
   
   # - title: "中文介绍"
   #  url: /chinese/  
