@@ -22,7 +22,7 @@ git是一个非常好用的工具，详细的介绍可以看[博客](https://www
 1. 注册github账户。
 2. 在windows下下载git，详细过程见[博客](https://www.jianshu.com/p/662d9bb9cadc).
 3. Fork[该仓库](https://github.com/iceli1007/iceli1007.github.io)。(相当于把我的仓库copy一份到你的主页下)
-![](https://github.com/iceli1007/iceli1007.github.io/tree/master/images/1.png)
+![](https://github.com/iceli1007/iceli1007.github.io/blob/master/images/1.png)
 4. 在仓库Setting中修改仓库名称为`[your_name].github.io`，该名称将会成为你个人主页的网址。我的github用户名为iceli1007. 你需要将其修改为你的用户名。
 5. 在你的github中下载仓库：需要用到[博客](https://www.jianshu.com/p/662d9bb9cadc)中所述的git clone命令。（譬如要下载我的个人主页仓库，其命令为`git clone https://github.com/iceli1007/iceli1007.github.io`）
 
