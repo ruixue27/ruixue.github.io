@@ -4,14 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2021
+* <b>Are High-Frequency Components Beneficial for Training of Generative Adversarial Networks</b>. Preprint.<br>
+ <b>Ziqiang Li</b>, Pengfei Xia, Xue Rui, Yanghui Hu and Bin Li. <i>arXiv preprint  arXiv:2103.11093, 2021</i>. <br>
+[[PDF]](https://arxiv.org/abs/2103.11093)</b>. Preprint. <br>
+
+
 * <b>Understanding the Error in Evaluating Adversarial Robustness</b>. Preprint. <br>
 Pengfei Xia, <b>Ziqiang Li</b>, Hongjing Niu and Bin Li. <i>arXiv preprint arXiv:2101.02325, 2021</i>. <br>
 [[PDF]](https://arxiv.org/abs/2101.02325)
-* <b>* <b>Understanding the Error in Evaluating Adversarial Robustness</b>. Preprint.<br>
-<b>Ziqiang Li</b>, Pengfei Xia, Hongjing Niu and Bin Li. <i>arXiv preprint arXiv:2103.11093, 2021</i>. <br>
-[[PDF]](https://arxiv.org/abs/2103.11093)</b>. Preprint. <br>
-Pengfei Xia, <b>Ziqiang Li</b>, Xue Rui, Yanghui Hu and Bin Li. <i>arXiv preprint arXiv:2101.02325, 2021</i>. <br>
-[[PDF]](https://arxiv.org/abs/2101.02325)
+
 
 
 ## 2020
