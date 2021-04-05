@@ -16,6 +16,7 @@ My research interests mainly lie in **Generative Adversarial Networks** and **Ad
 # <font color=red>News</font>
 
 > * Two papers accepted to **ICPR2020**.
+> * One paper accepted to **IEEE Transactions on Artificial Intelligence (IEEE TAI)**.
 
 # Awards
 ---
