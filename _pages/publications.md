@@ -12,7 +12,7 @@ author_profile: true
 Pengfei Xia, <b>Ziqiang Li</b>, Hongjing Niu and Bin Li. <i>arXiv preprint arXiv:2101.02325, 2021</i>. <br>
 [[PDF]](https://arxiv.org/abs/2101.02325)
 
-* <b>Interpreting the Latent Space of GANs via Measuring Decoupling. <br>
+* <b>Interpreting the Latent Space of GANs via Measuring Decoupling</b>. <br>
 <b>Ziqiang Li</b>, Rentuo Tao, Jie Wang, Fu Li, Hongjing Niu, Mingdao Yue, Bin Li. <i>IEEE Transactions on Artificial Intelligence, 2021</i>. <br>
 [[PDF]](https://ieeexplore.ieee.org/document/9399843)
 
