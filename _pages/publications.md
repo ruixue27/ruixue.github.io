@@ -30,8 +30,5 @@ Pengfei Xia, <b>Ziqiang Li</b>, Hongjing Niu and Bin Li. <i>arXiv preprint arXiv
 <b>Ziqiang Li</b>, Rentuo Tao, Qianrun Wu, Bin Li. <i>25th International Conference on Pattern Recognition (ICPR), 2020</i>. <br>
 [[PDF]](https://arxiv.org/pdf/1907.06358)
 
-## 2019
-* <b>ResAttr-GAN: Unpaired deep residual attributes learning for multi-domain face image translationg</b>. <br>
-Rentuo Tao, <b>Ziqiang Li</b>, Renshuai Tao, Bin Li. <i>IEEE Access, 2019</i>. <br>
-[[PDF]](https://ieeexplore.ieee.org/document/8836502?denied=)
+
 
