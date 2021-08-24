@@ -35,5 +35,10 @@ My research interests mainly lie in **Generative Adversarial Networks** and **Ad
 Ph.D. student with Prof. Bin Li.
 * Department of Electronic Science and Technology, University of Science and Technology of China. China. 2015-2019. <br>
 Undergraduate in Artificial Intelligence Class
+
+# Service
+
+**Conference Program Committee (PC) Member**
+* AAAI Conference on Artificial Intelligence (AAAI): 2022
 <!---Activity and Service--->
 <!---Experience--->
