@@ -14,7 +14,7 @@ I am currently a Ph.D. student in the [Department of Electronic Engineering and 
 My research interests mainly lie in **Generative Adversarial Networks** and **Adversarial Examples**. My works focus on some regularization methods in GANs training.
 
 # <font color=red>News</font>
-> * A repository for **regularization and normalization of GANs** is online. [Github](https://github.com/iceli1007/GANs-Regularization-Review)
+> * A repository for **Regularization and Normalization of GANs** is online. [Github](https://github.com/iceli1007/GANs-Regularization-Review)
 > * Two papers accepted to **ICPR2020**.
 > * One paper accepted to **IEEE Transactions on Artificial Intelligence (IEEE TAI)**.
 
