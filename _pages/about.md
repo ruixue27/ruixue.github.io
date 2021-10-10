@@ -16,7 +16,7 @@ My research interests mainly lie in **Generative Adversarial Networks** and **Ad
 # <font color=red>News</font>
 > * A repository for **Regularization and Normalization of GANs** is online. [Github](https://github.com/iceli1007/GANs-Regularization-Review)
 > * One paper accepted to **IEEE Transactions on Artificial Intelligence (IEEE TAI)**.
-> > * Two papers accepted to **ICPR2020**.
+> * Two papers accepted to **ICPR2020**.
 
 # Awards
 ---
