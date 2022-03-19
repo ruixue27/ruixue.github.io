@@ -3,6 +3,12 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com.hk/cit
 permalink: /publications/
 author_profile: true
 ---
+
+## 2022
+* <b>Enhancing Backdoor Attacks with Multi-Level MMD Regularization</b>.<br>
+ Pengfei Xia, Hongjing Niu, <b>Ziqiang Li</b>, and Bin Li. <i>IEEE Transactions on Dependable and Secure Computing, 2022</i>. <br>
+[[PDF]](https://arxiv.org/abs/2111.05077)
+
 ## 2021
 * <b>On the Receptive Field Misalignment in CAM-based Visual Explanations</b>.<br>
  Pengfei Xia, Hongjing Niu, <b>Ziqiang Li</b>, and Bin Li. <i>Pattern Recognition Letters, 2021</i>. <br>
