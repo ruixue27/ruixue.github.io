@@ -28,7 +28,7 @@ My research interests mainly lie in **Generative Adversarial Networks** and **Ad
 ---
 
 * Research Intern of **JD Explore**. 2021.8-present.
-<!--under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/) -->
+under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/)
 
 # Education
 ---
