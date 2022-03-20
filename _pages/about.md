@@ -15,10 +15,10 @@ My research interests mainly lie in **Generative Adversarial Networks** and **Ad
 
 # <font color=red>News</font>
 
-> * One paper accepted to **IEEE Transactions on Dependable and Secure Computing. (IEEE TDSC)**.
-> * A repository for **Regularization and Normalization of GANs** is online. [Github](https://github.com/iceli1007/GANs-Regularization-Review)
-> * One paper accepted to **IEEE Transactions on Artificial Intelligence (IEEE TAI)**.
-> * Two papers accepted to **ICPR2020**.
+> * 03/2022, One paper accepted to **IEEE Transactions on Dependable and Secure Computing. (IEEE TDSC)**.
+> * 10/2021, A repository for **Regularization and Normalization of GANs** is online. [Github](https://github.com/iceli1007/GANs-Regularization-Review)
+> * 04/2021, One paper accepted to **IEEE Transactions on Artificial Intelligence (IEEE TAI)**.
+> * 07/2020 Two papers accepted to **ICPR2020**.
 
 # Awards
 ---
