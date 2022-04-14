@@ -46,5 +46,6 @@ Undergraduate in Artificial Intelligence Class
 
 **Journal Reviewer**
 * IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
+* Pattern Recognition (PR)
 <!---Activity and Service--->
 <!---Experience--->
