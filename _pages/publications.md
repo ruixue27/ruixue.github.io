@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+<sup>*</sup> indicates Equal Contribution;
 
 ## 2022
 
