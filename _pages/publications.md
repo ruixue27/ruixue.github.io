@@ -7,8 +7,8 @@ author_profile: true
 ## 2022
 
 
-* <b>A Comprehensive Survey on Data-Efficient GANs in Image Generation </b>.<br>
-<b>Ziqiang Li<sup>*</sup></b>, Xintian Wu<sup>*</sup>, Beihao Xia, Jing Zhang, Chaoyue Wang, Bin Li. <i>arXiv preprint  arXiv:2204.08329, 2022</i>. <br>
+* <b>A Comprehensive Survey on Data-Efficient GANs in Image Generation </b>. Preprint.<br>
+<b>Ziqiang Li</b>, Xintian Wu, Beihao Xia, Jing Zhang, Chaoyue Wang, Bin Li. <i>arXiv preprint  arXiv:2204.08329, 2022</i>. <br>
 [[PDF]](https://arxiv.org/pdf/2204.08329)
 
 * <b>Data-Efficient Backdoor Attacks </b>.<br>
