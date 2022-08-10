@@ -13,7 +13,7 @@ author_profile: true
 [[PDF]](https://ieeexplore.ieee.org/document/9851855)
 
 * <b>FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs </b>.<br>
-<b>Ziqiang Li<sup>*</sup></b>, Chaoyue Wang, Heliang Zheng, Jing Zhang, and Bin Li. <i>ECCV, 2022</i>. <br>
+<b>Ziqiang Li</b>, Chaoyue Wang, Heliang Zheng, Jing Zhang, and Bin Li. <i>ECCV, 2022</i>. <br>
 [[PDF]](https://arxiv.org/pdf/2207.08630)
 
 * <b>A Comprehensive Survey on Data-Efficient GANs in Image Generation </b>. Preprint.<br>
