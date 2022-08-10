@@ -8,9 +8,16 @@ author_profile: true
 
 ## 2022
 
+* <b>A New Perspective on Stabilizing GANs Training: Direct Adversarial Training </b>.<br>
+<b>Ziqiang Li</b>, Pengfei Xia, Rentuo Tao, Hongjing Niu, and Bin Li. <i>IEEE Transactions on Emerging Topics in Computational Intelligence, 2022</i>. <br>
+[[PDF]](https://ieeexplore.ieee.org/document/9851855)
+
+* <b>FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs </b>.<br>
+<b>Ziqiang Li<sup>*</sup></b>, Chaoyue Wang, Heliang Zheng, Jing Zhang, and Bin Li. <i>ECCV, 2022</i>. <br>
+[[PDF]](https://arxiv.org/pdf/2207.08630)
 
 * <b>A Comprehensive Survey on Data-Efficient GANs in Image Generation </b>. Preprint.<br>
-<b>Ziqiang Li<sup>*</sup></b>, Xintian Wu<sup>*</sup>, Beihao Xia, Jing Zhang, Chaoyue Wang, Bin Li. <i>arXiv preprint  arXiv:2204.08329, 2022</i>. <br>
+<b>Ziqiang Li<sup>*</sup></b>, Xintian Wu<sup>*</sup>, Beihao Xia, Jing Zhang, Chaoyue Wang, and Bin Li. <i>arXiv preprint  arXiv:2204.08329, 2022</i>. <br>
 [[PDF]](https://arxiv.org/pdf/2204.08329)
 
 * <b>Data-Efficient Backdoor Attacks </b>.<br>
@@ -38,9 +45,6 @@ Pengfei Xia, <b>Ziqiang Li</b>, Hongjing Niu and Bin Li. <i>arXiv preprint arXiv
 [[PDF]](https://ieeexplore.ieee.org/document/9399843)
 
 ## 2020
-* <b>Direct Adversarial Training: A New Approach for Stabilizing The Training Process of GANs</b>. Preprint. <br>
-<b>Ziqiang Li</b>, Pengfei Xia, Rentuo Tao, Hongjing Niu and Bin Li. <i>arXiv preprint arXiv:2008.09041, 2020</i>. <br>
-[[PDF]](https://arxiv.org/pdf/2008.09041)
 * <b>Regularization and Normalization For Generative Adversarial Networks: A Survey</b>. Preprint. <br>
 <b>Ziqiang Li</b>, Rentuo Tao, Pengfei Xia, Huanhuan Chen and Bin Li. <i>arXiv preprint arXiv:2008.08930, 2020</i>. <br>
 [[PDF]](https://arxiv.org/pdf/2008.08930)
