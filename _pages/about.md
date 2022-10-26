@@ -15,13 +15,12 @@ My research interests mainly lie in **Generative Adversarial Networks** and **Ad
 
 # <font color=red>News</font>
 
+> * 10/2022, A Systematic Survey of Regularization and Normalization in GANs accepted to **ACM Computing Surveys (CSUR)** and the repository is online. [Github](https://github.com/iceli1007/GANs-Regularization-Review)
 > * 07/2022, One paper accepted to **IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)**.
 > * 07/2022, One paper accepted to **ECCV 2022**.
 > * 04/2022, One paper accepted to **Long Oral, IJCAI 2022**.
 > * 03/2022, One paper accepted to **IEEE Transactions on Dependable and Secure Computing. (IEEE TDSC)**.
-> * 10/2021, A repository for **Regularization and Normalization of GANs** is online. [Github](https://github.com/iceli1007/GANs-Regularization-Review)
 > * 04/2021, One paper accepted to **IEEE Transactions on Artificial Intelligence (IEEE TAI)**.
-> * 07/2020, Two papers accepted to **ICPR2020**.
 
 # Awards
 ---
