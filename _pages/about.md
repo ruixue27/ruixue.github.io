@@ -46,6 +46,7 @@ Undergraduate in Artificial Intelligence Class
 **Conference Program Committee (PC) Member**
 * AAAI Conference on Artificial Intelligence (AAAI): 2022
 * European Conference on Computer Vision (ECCV): 2022
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023
 
 **Journal Reviewer**
 * IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
