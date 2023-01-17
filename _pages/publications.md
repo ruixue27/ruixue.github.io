@@ -40,9 +40,6 @@ author_profile: true
 * <b>On the Receptive Field Misalignment in CAM-based Visual Explanations</b>.<br>
  Pengfei Xia, Hongjing Niu, <b>Ziqiang Li</b>, and Bin Li. <i>Pattern Recognition Letters, 2021</i>. <br>
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0167865521003810)
-* <b>Are High-Frequency Components Beneficial for Training of Generative Adversarial Networks</b>. Preprint.<br>
- <b>Ziqiang Li</b>, Pengfei Xia, Xue Rui, Yanghui Hu and Bin Li. <i>arXiv preprint  arXiv:2103.11093, 2021</i>. <br>
-[[PDF]](https://arxiv.org/abs/2103.11093)
 
 * <b>Understanding the Error in Evaluating Adversarial Robustness</b>. Preprint. <br>
 Pengfei Xia, <b>Ziqiang Li</b>, Hongjing Niu and Bin Li. <i>arXiv preprint arXiv:2101.02325, 2021</i>. <br>
