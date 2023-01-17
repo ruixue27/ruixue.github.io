@@ -11,10 +11,11 @@ I am currently a Ph.D. student in the [Department of Electronic Engineering and 
 
 # Research
 ---
-My research interests mainly lie in **Generative Adversarial Networks** and **Adversarial Examples**. My works focus on some regularization methods in GANs training.
+My research interests mainly lie in **Image Generation** and **AI Security**. My works focus on Data-efficient GANs training and backdoor learning of neural networks.
 
 # <font color=red>News</font>
 
+> * 12/2022, One paper accepted to **ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)**.
 > * 10/2022, A Systematic Survey of Regularization and Normalization in GANs accepted to **ACM Computing Surveys (CSUR)** and the repository is online. [Github](https://github.com/iceli1007/GANs-Regularization-Review)
 > * 07/2022, One paper accepted to **IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)**.
 > * 07/2022, One paper accepted to **ECCV 2022**.
