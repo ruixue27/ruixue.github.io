@@ -8,6 +8,10 @@ author_profile: true
 
 ## 2022
 
+* <b>Exploring The Effect of High-frequency Components in GANs Training</b>. <br>
+<b>Ziqiang Li</b>, Pengfei Xia, Xue Rui, and Bin Li. <i>ACM Transactions on Multimedia Computing, Communications and Applications, 2022</i>. <br>
+[[PDF]](https://dl.acm.org/doi/abs/10.1145/3578585)
+
 * <b>A Systematic Survey of Regularization and Normalization in GANs</b>. <br>
 <b>Ziqiang Li</b>, Muhammad Usman, Rentuo Tao, Pengfei Xia, Chaoyue Wang, Huanhuan Chen, and Bin Li. <i>Acm Computing Survey, 2022</i>. <br>
 [[PDF]](https://dl.acm.org/doi/10.1145/3569928)
