@@ -54,7 +54,7 @@ Pengfei Xia, <b>Ziqiang Li</b>, Hongjing Niu and Bin Li. <i>arXiv preprint arXiv
 
 ## 2020
 * <b>Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation</b>. <br>
-<b>Ziqiang Li</b>, Rentuo Tao, Hongjing Niu, Mingdao Yue, Bin Li. <i>25th International Conference on Pattern Recognition (ICPR), 2020</i>. <br>
+<b>Ziqiang Li</b>*, Rentuo Tao*, Hongjing Niu, Mingdao Yue, Bin Li. <i>25th International Conference on Pattern Recognition (ICPR), 2020</i>. <br>
 [[PDF]](https://arxiv.org/pdf/2006.10132)
 * <b>DA-RefineNet: Dual-inputs Attention RefineNet for Whole Slide Image Segmentation</b>. <br>
 <b>Ziqiang Li</b>, Rentuo Tao, Qianrun Wu, Bin Li. <i>25th International Conference on Pattern Recognition (ICPR), 2020</i>. <br>
