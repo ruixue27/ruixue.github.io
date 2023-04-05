@@ -52,6 +52,7 @@ Undergraduate in Artificial Intelligence Class
 
 **Journal Reviewer**
 * IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
+* IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
 * IEEE Transactions on Reliability (IEEE TR)
 * Pattern Recognition (PR)
 <!---Activity and Service--->
