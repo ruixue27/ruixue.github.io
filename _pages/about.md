@@ -45,6 +45,7 @@ Undergraduate in Artificial Intelligence Class
 # Service
 
 **Conference Program Committee (PC) Member**
+* ACM Multimedia (ACM MM):2023
 * International Conference on Computer Vision (ICCV):2023
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023
 * European Conference on Computer Vision (ECCV): 2022
