@@ -15,6 +15,7 @@ My research interests mainly lie in **Image Generation** and **AI Security**. My
 
 # <font color=red>News</font>
 
+> * 09/2023, One paper accepted to **NeurIPS 2023**.
 > * 12/2022, One paper accepted to **ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)**.
 > * 10/2022, A Systematic Survey of Regularization and Normalization in GANs accepted to **ACM Computing Surveys (CSUR)** and the repository is online. [Github](https://github.com/iceli1007/GANs-Regularization-Review)
 > * 07/2022, One paper accepted to **IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)**.
@@ -32,7 +33,7 @@ My research interests mainly lie in **Image Generation** and **AI Security**. My
 # Experience
 ---
 
-* Research Intern of **JD Explore**. 2021.8-present.
+* Research Intern of **JD Explore**. 2021.8-2023.04.
 under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/)
 
 # Education
