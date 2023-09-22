@@ -6,6 +6,12 @@ author_profile: true
 
 <sup>*</sup> indicates Equal Contribution;
 
+## 2023
+
+* <b>Domain Re-Modulation for Few-Shot Generative Domain Adaptation</b>. <br>
+Yi Wu*, <b>Ziqiang Li*</b>, Chaoyue Wang, Heliang Zheng, Shanshan Zhao, Bin Li, and Dacheng Tao. <i>NeurIPS, 2023</i>. <br>
+[[PDF]]([https://dl.acm.org/doi/abs/10.1145/3578585](https://arxiv.org/abs/2302.02550))
+
 ## 2022
 
 * <b>Exploring The Effect of High-frequency Components in GANs Training</b>. <br>
