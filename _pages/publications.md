@@ -10,14 +10,14 @@ author_profile: true
 
 * <b>Efficient Backdoor Attacks for Deep Neural Networks in Real-world Scenarios</b>. <br>
 <b>Ziqiang Li*</b>, Hong Sun*, Pengfei Xia, Heng Li, Beihao Xia, Yi Wu, Bin Li. <i>ICLR, 2024</i>. <br>
-[[PDF]]([https://dl.acm.org/doi/abs/10.1145/3578585](https://arxiv.org/abs/2302.02550))
+[[PDF]](https://openreview.net/pdf?id=vRyp2dhEQp)
 
 
 ## 2023
 
 * <b>Domain Re-Modulation for Few-Shot Generative Domain Adaptation</b>. <br>
 Yi Wu*, <b>Ziqiang Li*</b>, Chaoyue Wang, Heliang Zheng, Shanshan Zhao, Bin Li, and Dacheng Tao. <i>NeurIPS, 2023</i>. <br>
-[[PDF]]([https://openreview.net/pdf?id=vRyp2dhEQp](https://openreview.net/pdf?id=vRyp2dhEQp))
+[[PDF]](https://openreview.net/pdf?id=jown9RvYn7)
 
 ## 2022
 
