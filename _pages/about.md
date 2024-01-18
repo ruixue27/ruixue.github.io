@@ -15,6 +15,7 @@ My research interests mainly lie in **Image Generation** and **AI Security**. My
 
 # <font color=red>News</font>
 
+> * 01/2024, One paper accepted to **ICLR 2024**.
 > * 09/2023, One paper accepted to **NeurIPS 2023**.
 > * 12/2022, One paper accepted to **ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)**.
 > * 10/2022, A Systematic Survey of Regularization and Normalization in GANs accepted to **ACM Computing Surveys (CSUR)** and the repository is online. [Github](https://github.com/iceli1007/GANs-Regularization-Review)
@@ -50,7 +51,7 @@ Undergraduate in Artificial Intelligence Class
 * ACM Multimedia (ACM MM): 2023
 * International Conference on Computer Vision (ICCV): 2023
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023, 2024
-* European Conference on Computer Vision (ECCV): 2022
+* European Conference on Computer Vision (ECCV): 2022, 2024
 * AAAI Conference on Artificial Intelligence (AAAI): 2022
 
 **Journal Reviewer**
