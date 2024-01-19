@@ -12,7 +12,6 @@ author_profile: true
 <b>Ziqiang Li*</b>, Hong Sun*, Pengfei Xia, Heng Li, Beihao Xia, Yi Wu, Bin Li. <i>ICLR, 2024</i>. <br>
 [[PDF]](https://openreview.net/pdf?id=vRyp2dhEQp)
 
-
 ## 2023
 
 * <b>Domain Re-Modulation for Few-Shot Generative Domain Adaptation</b>. <br>
