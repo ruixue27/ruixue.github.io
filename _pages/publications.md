@@ -9,7 +9,7 @@ author_profile: true
 ## 2024
 
 * <b>Efficient Backdoor Attacks for Deep Neural Networks in Real-world Scenarios</b>. <br>
-Ziqiang Li*, Hong Sun*, Pengfei Xia, Heng Li, Beihao Xia, Yi Wu, Bin Li. <i>ICLR, 2024</i>. <br>
+<b>Ziqiang Li* </b>, Hong Sun*, Pengfei Xia, Heng Li, Beihao Xia, Yi Wu, Bin Li. <i>ICLR, 2024</i>. <br>
 [[PDF]](https://openreview.net/pdf?id=vRyp2dhEQp)
 
 ## 2023
