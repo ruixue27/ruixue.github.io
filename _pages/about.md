@@ -23,7 +23,6 @@ My research interests mainly lie in **Image Generation** and **AI Security**. My
 > * 07/2022, One paper accepted to **ECCV 2022**.
 > * 04/2022, One paper accepted to **Long Oral, IJCAI 2022**.
 > * 03/2022, One paper accepted to **IEEE Transactions on Dependable and Secure Computing. (IEEE TDSC)**.
-> * 04/2021, One paper accepted to **IEEE Transactions on Artificial Intelligence (IEEE TAI)**.
 
 # Awards
 ---
@@ -47,11 +46,12 @@ Undergraduate in Artificial Intelligence Class
 # Service
 
 **Conference Program Committee (PC) Member**
-* Neural Information Processing Systems (NeurIPS): 2023
-* ACM Multimedia (ACM MM): 2023
-* International Conference on Computer Vision (ICCV): 2023
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023, 2024
+* International Conference on Computer Vision (ICCV): 2023
 * European Conference on Computer Vision (ECCV): 2022, 2024
+* Asian Conference On Computer Vision (ACCV): 2024
+* ACM Multimedia (ACM MM): 2023
+* Neural Information Processing Systems (NeurIPS): 2023
 * AAAI Conference on Artificial Intelligence (AAAI): 2022
 
 **Journal Reviewer**
