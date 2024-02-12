@@ -11,7 +11,7 @@ I am currently a Ph.D. student in the [Department of Electronic Engineering and 
 
 # Research
 ---
-My research interests mainly lie in **Image Generation** and **AI Security**. My works focus on Data-efficient GANs training and backdoor learning of neural networks.
+My research interests mainly lie in **Artificial Intelligence Generated Content (AIGC)** and **AI Security**. My works focus on GANs, Diffusion, and backdoor learning of neural networks.
 
 # <font color=red>News</font>
 
@@ -27,13 +27,16 @@ My research interests mainly lie in **Image Generation** and **AI Security**. My
 # Awards
 ---
 
+* Best Student Paper Award of BigDIA 2023. 2023.12
 * National Encouragement Scholarship. USTC. 2019.4
 * Bronze Award of the Excellent Student Scholarship. USTC. 2018.12
 
 # Experience
 ---
 
-* Research Intern of **JD Explore**. 2021.8-2023.04.
+* Research Intern of **Initi.AI (An AIGC startup)**. 2023.04-2024.02.
+under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/) 
+* Research Intern of **JD Explore**. 2021.08-2023.04.
 under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/)
 
 # Education
