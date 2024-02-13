@@ -11,6 +11,7 @@ I am currently a Ph.D. student in the [Department of Electronic Engineering and 
 
 # Research
 ---
+
 My research interests mainly lie in **Artificial Intelligence Generated Content** and **AI Security**. My works focus on GANs, Diffusion, and backdoor learning of neural networks.
 
 # <font color=red>News</font>
@@ -38,6 +39,7 @@ under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/)
 
 # Education
 ---
+
 * Department of Electronic Engineering and Information Science, University of Science and Technology of China. China. 2019-present. <br>
 Ph.D. student with Prof. Bin Li.
 * Department of Electronic Science and Technology, University of Science and Technology of China. China. 2015-2019. <br>
