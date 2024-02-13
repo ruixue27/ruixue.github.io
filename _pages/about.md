@@ -12,7 +12,7 @@ I am currently a Ph.D. student in the [Department of Electronic Engineering and 
 # Research
 ---
 
-My research interests mainly lie in **Artificial Intelligence Generated Content** and **AI Security**. My works focus on GANs, Diffusion, and backdoor learning of neural networks.
+My research interests mainly lie in **Artificial Intelligence Generated Content** and **AI Security**. My works focus on GANs, Diffusion, and back  door learning of neural networks.
 
 # <font color=red>News</font>
 
