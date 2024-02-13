@@ -36,7 +36,7 @@ My research interests mainly lie in **Artificial Intelligence Generated Content 
 
 * Research Intern of **Initi.AI (An AIGC startup)**. 2023.04-2024.02.
 under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/) 
-* Research Intern of **JD Explore**. 2021.08-2023.04.
+* Research Intern of **JD Explore**. 2021.08-2023.03.
 under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/)
 
 # Education
