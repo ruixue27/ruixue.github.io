@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziqiang Li"
+title                    : "Xue Rui"
 title_separator          : "-"
-name                     : &name "Ziqiang Li"
-description              : &description "Ph.D. student in Deep Learning and Computer Vision. School of Information Science and Technology, University of Science and Technology of China"
-url                      : https://iceli1007.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xue Rui"
+description              : &description "lecturer in NUIST, School of Emergency management."
+url                      : https://ruixue27.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "iceli1007/iceli1007.github.io"
+repository               : "ruixue27/ruixue27.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziqiang Li"
-  avatar           : "lzq_new.jpg" # "lzq_new.jpg" #
-  bio              : "Ph.D. student in Deep Learning and Computer Vision. School of Information Science and Technology, University of Science and Technology of China"
-  location         : "Hefei, China"
+  name             : "Xue Rui"
+  avatar           : "ruixue.jpg" # "lzq_new.jpg" #
+  bio              : "Lecturer in NUIST. School of Emergency Management"
+  location         : "Nanjing, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=mj5a8WgAAAAJ&hl"
-  email            : "iceli@mail.ustc.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=j1bNR20AAAAJ"
+  email            : "ruixue27@mail.ustc.edu.cn"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   # facebook         : 
   foursquare       :
-  github           : "iceli1007"
+  github           : "ruixue27"
   google_plus      :
   keybase          :
   instagram        : 
